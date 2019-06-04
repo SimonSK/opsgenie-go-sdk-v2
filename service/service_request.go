@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/opsgenie/opsgenie-go-sdk-v2/client"
+	"github.com/simonsk/opsgenie-go-sdk-v2/client"
 	"github.com/pkg/errors"
 	"strconv"
 )

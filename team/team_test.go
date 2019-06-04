@@ -2,7 +2,7 @@ package team
 
 import (
 	"errors"
-	"github.com/opsgenie/opsgenie-go-sdk-v2/og"
+	"github.com/simonsk/opsgenie-go-sdk-v2/og"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

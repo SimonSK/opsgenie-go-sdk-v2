@@ -1,6 +1,6 @@
 package account
 
-import "github.com/opsgenie/opsgenie-go-sdk-v2/client"
+import "github.com/simonsk/opsgenie-go-sdk-v2/client"
 
 type GetRequest struct {
 	client.BaseRequest

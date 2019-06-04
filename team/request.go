@@ -2,8 +2,8 @@ package team
 
 import (
 	"errors"
-	"github.com/opsgenie/opsgenie-go-sdk-v2/client"
-	"github.com/opsgenie/opsgenie-go-sdk-v2/og"
+	"github.com/simonsk/opsgenie-go-sdk-v2/client"
+	"github.com/simonsk/opsgenie-go-sdk-v2/og"
 	"strconv"
 )
 
